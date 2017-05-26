@@ -1,0 +1,221 @@
+# eDPM Login Page Objects
+
+txtbx_UserID = //input[@id='userID']
+txtbx_Password = //input[@id='pwd']
+txtbx_BPID = //input[@id='bpID']
+rdb_Passbased = //*[@name='authType' and @value='P']
+btn_LogIn = //input[@id='loginButton' and @name = 'button']
+
+***********************************************************************************************************************************
+# Settlement Objects
+
+# Account Transfer
+stlm_link = //*[@id='Li3']/a
+act_link = //*[@id='Ul3']/li[1]/a
+new_instLink = //*[@id='lkNewMultipleAccountTransfer']
+
+***********************************************************************************************************************************
+# ACTR01 Objects
+sClientId = //input[@id='trfrClientId']
+tDpId = //input[@id='trfeDpId']
+tClientID = //input[@id='trfeClientId' and @class='textField']
+isin = //input[@id='isin0']
+isin1 = //input[@id='isin1']
+isin2 = //input[@id='isin2']
+isin3 = //input[@id='isin3']
+isin4 = //input[@id='isin4']
+isin5 = //input[@id='isin5']
+isin6 = //input[@id='isin6']
+isin7 = //input[@id='isin7']
+isin8 = //input[@id='isin8']
+isin9 = //input[@id='isin9']
+quantity = //input[@id='qty0']
+quantity1 = //input[@id='qty1']
+quantity2 = //input[@id='qty2']
+quantity3 = //input[@id='qty3']
+quantity4 = //input[@id='qty4']
+quantity5 = //input[@id='qty5']
+quantity6 = //input[@id='qty6']
+quantity7 = //input[@id='qty7']
+quantity8 = //input[@id='qty8']
+quantity9 = //input[@id='qty9']
+AllChkBox = //input[@id='ckcheckbox01']
+eDate = //input[@id='txtExecDate']
+eMonth = //input[@id='txtExecMonth']
+eYear = //input[@id='txtExecYear']
+disDropDown = //select[@id='disTypeDropDown']
+reasonDropDown = //select[@id='reasonCode']
+savebtn = //input[@id='saveUpdate']
+instructionId = //*[@id='accountTransferList']/tbody/tr[1]/td[2]
+logOut = //a[@href='#']
+inputInstructionId = //input[@id='dpRefNum']
+searchButton = //input[@id='btnSearch']
+verifyReleaseButton =//input[@id='verifyRelease']
+backButton =//input[@id='btnNewSearch']
+#//input[@id='btnSingleBack']
+instructionStatus = //*[@id='accountTransferList']/tbody/tr[1]/td[11]
+
+# ACTR02 objects
+
+newInstButton = //input[@id='btnNew']
+
+***********************************************************************************************************************************
+
+# Reason code objects
+
+consideration = //input[@name='consideration' and @class='textField']
+reason = //input[@name='reason' and @class='textField']
+
+***********************************************************************************************************************************
+
+# ACTR03 Objects
+tCmBpId =//input[@id='cmId']
+mktDropDown = //select[@id='marketType']
+stlmCycNumber = //input[@id='stlmtNum']
+
+***********************************************************************************************************************************
+
+# DOO Objects
+
+do_link = //*[@id='Ul3']/li[4]/a
+new_doLink = //*[@id='lkLlbtnNew']
+cmClientIdDo = //input[@id='trfrClientId']
+isinDo = //input[@id='isin']
+quantityDo = //input[@id='stlmtQty']
+disDropDownDo = //select[@id='disType']
+mktTypeDo = //select[@id='trfrMarketType']
+stlmCycNoDo = //input[@id='trfrStlmtCycleNum']
+savebtnDo = //input[@id='saveButton']
+eDateDo = //input[@id='executionDate']
+eMonthDo = //input[@id='executionMonth']
+eYearDo = //input[@id='executionYear']
+instructionIdDo = //*[@id='stTxtOrgBpInstrId']
+inputInstructionIdDo = //input[@id='txtOrgBpInstrId']
+searchButtonDo = //input[@id='searchButton']
+newSearchButtonDo = //input[@id='btnNewSearch']
+verifyReleaseButtonDo = //input[@id='verifyRelease']
+instructionStatusDo = //*[@id='stTxtStatusVal']
+
+***********************************************************************************************************************************
+
+# IDO Objects
+
+rdbIrreversible = //input[@id='rdOrderType1']
+irreversibleSelect = //select[@id='irreversibleReason']
+
+***********************************************************************************************************************************
+
+# CMPL and IST Objects
+cmp_link = //*[@id='Ul3']/li[2]/a
+new_CmpLink = //*[@id='lkNewPoolToPool']
+rdbCmPoolTranx = //input[@id='rdCmPoolToPoolTransfer']
+sCmClient = //input[@id='clientID']
+tCmBpIdCmp = //input[@id='cmBpId']
+isinCmp =//input[@id='isin']
+quantityCmp = //input[@id='txtQuantity']
+eDateCmp = //input[@id='execDate']
+eMonthCmp = //input[@id='execMonth']
+eYearCmp = //input[@id='execYear']
+disDropDownCmp = //select[@class='textField' and @name='disType']
+reasonDropDownIdt = //select[@name='reasonCode' and @class='textField']
+sMktType = //select[@id='marketTypeSource']
+sStlmNo = //input[@id='txtTrfrSettlementNo']
+tMktType = //select[@id='marketTypeTarget']
+tStlmNo = //input[@id='txtTrfeSettlementNo']
+btnSave = //input[@id='btnSave']
+getInstructionIdCmp = //*[@id='lblBpInstrId']
+InputinstructionIdCmp = //input[@id='dpRefNum']
+btnSearchCmp = //input[@id='btnSearch']
+newSearchButtonCmp = //input[@id='btnNewSearch']
+instructionStatusCmp = //*[@id='lblStatusDesc']
+rdbSearchScreenCmp = //input[@name='transactionType' and @value='CMT']
+verifyReleaseButtonCmp  = //input[@name='button1' and @class='button1' and @value='Verify and Release']
+rdb_Rfp = //input[@id='rdCMR']
+btnNewCmp = //input[@id='btnNew']
+
+***********************************************************************************************************************************
+
+# DIS Objects
+
+chk_oldDis = //input[@id='oldFormatInd']
+chk_looseSlipInd = //input[@id='looseSlipInd']
+prefixNew = //input[@id='newDisBranchCode']
+suffixNew = //input[@id='newDisNo']
+oldDisSerial = //input[@id='oldDisSerialNo']  // Added on 23-10-2016
+
+***********************************************************************************************************************************
+
+# Business Date Objects welcomeBar
+
+bDate = //*[@id='sgrNewDate']
+
+***********************************************************************************************************************************
+#IDT Objects
+
+idt_link = //*[@id='Ul3']/li[3]/a
+new_idtLink =  //*[@id='lkNew']
+sClientIdIdt = //input[@id='trfrClientId']
+tClientCode = //input[@id='clientCode']
+eDateIdt = //input[@id='execDate']
+eMonthIdt = //input[@id='txtExecMonth']
+eYearIdt = //input[@id='txtExecYear']
+noOfInstructions =//input[@id='noOfInstructions']
+isinIdt = //input[@id='isin0']
+quantityIdt = //input[@id='txtQuantity0']
+disDropDownIdt = //select[@id='disTypeDropDown']
+btn_saveIdt = //input[@id='saveButton']
+btn_newSearchIdt = //input[@id='newSearch']
+btn_searchIdt = //input[@id='searchButton']
+instructionIdIdt = //*[@id='multipleIDTList']/tbody/tr[1]/td[2]/input
+inputInstructionIdIdt = //input[@id='txtBpInstrId']
+verifyReleaseButtonIdt = //input[@id='verifyReleaseButton']
+instructionStatusIdt = //*[@id='idtResultsList']/tbody/tr[1]/td[7]
+idtResultInstId = //*[@id='idtResultsList']/tbody/tr[1]/td[1]/a
+idtMktType = //select[@id='marketType']
+stlmNoIdt = //input[@id='stlmtNum']
+***********************************************************************************************************************************
+# ACTR02 Objects
+
+rdb_rfp = //input[@id='rdRFP']
+eDateRfp = //input[@id='txtExecDate']
+eMonthRfp = //input[@id='txtExecMonth']
+eYearRfp = //input[@id='txtExecYear']
+btn_serarchRfp =//input[@id='btnNewSearch']
+
+###################################################################################################################################
+
+DM Clearing corporation schedule Objects
+
+link_BussPartner = //*[@id='Li8']/a
+link_ccSchedule = //*[@class='outline']/tbody/tr/td[2]/table/tbody/tr[4]/td/a
+link_newStlm = //*[@name='searchClearingCorporationSchedulesForm']/table/tbody/tr/td/a
+ccId = //input[@id='clearingCorporation']
+stlmNo = //input[@id='settlementNo']
+payInDate = //input[@id='payInDate']
+payOutDate = //input[@name='payOutDate' and @class ='textField']
+stlmStartDate = //input[@name='settlementStartDate' and @class ='textField']
+stlmEndDate = //input[@name='settlementEndDate' and @class ='textField']
+stlmNoMktType = //select[@id='marketType']
+link_stlmAdd = //input[@id='addButton']
+link_confirm = //input[@id='confirmButton']
+link_OkButton = //input[@id='OkButton']
+stlmError = //*[@class='outline']/tbody/tr[2]/td
+
+****CM BP ID creation Objects*****
+
+link_cmDetail  = //*[@class='outline']/tbody/tr/td[2]/table/tbody/tr[6]/td/a
+link_newCmDetail = //*[@name='searchCMDetailsForm']/table/tbody/tr/td/a
+txt_ccIdCmd = //input[@name='ccID' and @class='textField']
+txt_cmId = //input[@name='cmIDAtCC' and @class='textField']
+txt_cmName = //input[@name='ccCMName' and @class='textField']
+btn_add = //input[@id='addButton' and @class='button']
+btn_cnfDetails = //input[@id='confirmButton' and @class='button']
+btn_okButton = //input[@id='okButton' and @class='button']
+btn_searchCmd = //input[@id='searchButton' and @class='button']
+btn_activateCmd = //input[@id='activateButton' and @class='button']
+chk_selectCmd = //input[@name='cmDetailsResultList[0].chkSelectedValue']
+btn_saveCmd = //input[@id='saveButton' and @class='button']
+
+#NSDLC8589
+
+

@@ -1,0 +1,1149 @@
+2017-03-09 15:49:34,615 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:49:34,615 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:49:34,615 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-09 15:49:34,615 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:49:34,615 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:49:34,615 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:49:34,615 INFO  [Log] Opening Browser 
+2017-03-09 15:49:45,053 INFO  [Log] Navigating to URL 
+2017-03-09 15:49:52,650 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:49:53,383 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-09 15:49:59,436 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:49:59,654 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-09 15:50:00,341 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:00,590 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-09 15:50:01,417 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:01,604 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-09 15:50:01,901 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:02,150 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-09 15:50:06,206 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:10,715 INFO  [Log] ----Switching driver to new window---- 
+2017-03-09 15:50:10,902 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-09 15:50:11,245 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:11,495 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-09 15:50:11,854 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:12,056 INFO  [Log] Clicking on Button or link : new_instLink 
+2017-03-09 15:50:13,694 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:18,406 INFO  [Log] Entering Input Data : sClientId 
+2017-03-09 15:50:18,952 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:19,233 INFO  [Log] Entering Input Data : tDpId 
+2017-03-09 15:50:20,434 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:20,683 INFO  [Log] Entering Input Data : tClientID 
+2017-03-09 15:50:21,214 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:21,432 INFO  [Log] Entering Input Data : isin 
+2017-03-09 15:50:22,633 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:22,867 INFO  [Log] Entering Input Data : quantity 
+2017-03-09 15:50:23,289 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:23,491 INFO  [Log] **** Entering Execution Date **** 
+2017-03-09 15:50:24,661 INFO  [Log] Entered select_DropDown : disDropDown 
+2017-03-09 15:50:24,849 INFO  [Log] selecting dropdown by Visible Text: disDropDown 
+2017-03-09 15:50:25,161 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:25,410 INFO  [Log] Entered select_DropDown : reasonDropDown 
+2017-03-09 15:50:25,597 INFO  [Log] selecting dropdown by Value: reasonDropDown 
+2017-03-09 15:50:25,847 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:26,034 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-09 15:50:27,220 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:28,686 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-09 15:50:33,195 INFO  [Log] ---Getting DFP Instruction ID--- 
+2017-03-09 15:50:33,397 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:50:33,397 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:50:33,397 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-09 15:50:33,397 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:50:33,397 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:50:33,397 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:50:33,413 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:50:33,413 INFO  [Log] Instruction ID Stored : 20000001336496 
+2017-03-09 15:50:33,429 INFO  [Log] Clicking on Button or link : newInstButton 
+2017-03-09 15:50:34,489 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:39,169 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-09 15:50:39,481 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:39,731 INFO  [Log] Entering Input Data : sClientId 
+2017-03-09 15:50:40,277 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:40,495 INFO  [Log] Entering Input Data : tDpId 
+2017-03-09 15:50:41,338 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:41,587 INFO  [Log] Entering Input Data : tClientID 
+2017-03-09 15:50:42,149 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:42,352 INFO  [Log] Entering Input Data : isin 
+2017-03-09 15:50:43,522 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:43,787 INFO  [Log] Entering Input Data : quantity 
+2017-03-09 15:50:44,208 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:44,411 INFO  [Log] **** Entering Execution Date **** 
+2017-03-09 15:50:45,565 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-09 15:50:46,517 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:50:47,937 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-09 15:50:52,445 INFO  [Log] ---Getting RFP Instruction ID--- 
+2017-03-09 15:50:52,632 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:50:52,632 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:50:52,632 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-09 15:50:52,632 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:50:52,632 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:50:52,632 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:50:52,648 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:50:52,648 INFO  [Log] Instruction ID Stored : 20000001336497 
+2017-03-09 15:50:52,679 INFO  [Log] === Logging Out === 
+2017-03-09 15:50:53,756 INFO  [Log] Are you sure you want to Logout? For Security Reasons this Browser will be Closed. - Alert accepted - 
+2017-03-09 15:50:53,802 INFO  [Log] Opening Browser 
+2017-03-09 15:51:02,945 INFO  [Log] Navigating to URL 
+2017-03-09 15:51:09,903 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:10,308 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-09 15:51:15,394 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:15,612 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-09 15:51:16,267 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:16,501 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-09 15:51:17,281 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:17,469 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-09 15:51:17,781 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:18,015 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-09 15:51:19,076 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:23,522 INFO  [Log] ----Switching driver to new window---- 
+2017-03-09 15:51:23,678 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-09 15:51:23,974 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:24,192 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-09 15:51:24,520 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:24,707 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-09 15:51:24,972 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:24,972 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:24,972 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-09 15:51:24,972 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:24,972 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:24,972 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:51:24,972 INFO  [Log] Instructrion ID for Input : 20000001336496 
+2017-03-09 15:51:25,331 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:51:25,331 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:25,581 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-09 15:51:26,486 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:31,181 INFO  [Log] Clicking on Button or link : verifyReleaseButton 
+2017-03-09 15:51:31,712 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:32,570 INFO  [Log] Do you really want to release the instruction? - Alert accepted - 
+2017-03-09 15:51:35,019 INFO  [Log] The instruction has been Released successfully. - Alert accepted - 
+2017-03-09 15:51:39,527 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-09 15:51:40,323 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:44,987 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-09 15:51:45,112 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:45,112 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:45,112 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-09 15:51:45,112 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:45,112 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:45,112 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:51:45,112 INFO  [Log] Instructrion ID for Input : 20000001336496 
+2017-03-09 15:51:45,518 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:51:45,518 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:45,767 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-09 15:51:46,797 INFO  [Log] Entering into takeScreenShot 
+2017-03-09 15:51:51,493 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:51:51,493 INFO  [Log] ---Getting Instruction Status---- 
+2017-03-09 15:51:51,742 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:51,742 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:51,742 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-09 15:51:51,742 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:51,742 INFO  [Log] **************************************************************************************** 
+2017-03-09 15:51:51,742 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:51:51,742 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-09 15:51:51,758 INFO  [Log] Instructrion ID for Input : CounterParty Instruction Awaited 
+2017-03-09 15:51:51,789 INFO  [Log] Instructrion ID for Input : Settled 
+2017-03-09 15:51:51,851 INFO  [Log] Instructrion ID for Input : Settled 
+2017-03-17 10:55:12,217 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:55:12,217 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:55:12,217 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 10:55:12,217 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:55:12,217 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:55:12,217 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:55:12,217 INFO  [Log] Opening Browser 
+2017-03-17 10:55:22,717 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-17 10:55:22,717 INFO  [Log] X 
+2017-03-17 10:55:22,717 INFO  [Log] X 
+2017-03-17 10:55:22,717 INFO  [Log] X 
+2017-03-17 10:55:22,717 INFO  [Log] X 
+2017-03-17 10:55:47,974 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:55:47,974 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:55:47,974 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 10:55:47,974 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:55:47,974 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:55:47,974 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:55:47,974 INFO  [Log] Opening Browser 
+2017-03-17 10:55:57,366 INFO  [Log] Navigating to URL 
+2017-03-17 10:56:06,523 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:56:07,147 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 10:56:11,999 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:56:12,248 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 10:56:12,903 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:56:13,137 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 10:56:13,886 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:56:14,073 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 10:56:14,401 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:56:14,666 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 10:56:17,583 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:56:19,565 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 10:56:23,777 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 10:56:24,089 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 10:56:28,379 ERROR [Log] Element not clickable : The xpath expression '//*[@id='Li3']/a' cannot be evaluated or does notresult in a WebElement (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.29 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:17:10'
+System info: host: 'nsdltinc86', ip: '172.19.4.204', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_55'
+*** Element info: {Using=xpath, value=//*[@id='Li3']/a}
+Session ID: bf62ee0a-ed6c-4c84-a0fa-48ece415546e
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=11, pageLoadStrategy=normal, ie.usePerProcessProxy=false, cssSelectorsEnabled=true, ignoreProtectedModeSettings=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:42645/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}] 
+2017-03-17 10:56:28,425 INFO  [Log] Not able to close browser Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:17:10'
+System info: host: 'nsdltinc86', ip: '172.19.4.204', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: bf62ee0a-ed6c-4c84-a0fa-48ece415546e
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=11, pageLoadStrategy=normal, ie.usePerProcessProxy=false, cssSelectorsEnabled=true, ignoreProtectedModeSettings=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:42645/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}] 
+2017-03-17 10:56:28,441 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-17 10:56:28,441 INFO  [Log] X 
+2017-03-17 10:56:28,441 INFO  [Log] X 
+2017-03-17 10:56:28,441 INFO  [Log] X 
+2017-03-17 10:56:28,441 INFO  [Log] X 
+2017-03-17 10:56:38,364 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:56:38,364 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:56:38,364 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 10:56:38,364 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:56:38,364 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:56:38,364 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:56:38,364 INFO  [Log] Opening Browser 
+2017-03-17 10:56:47,662 INFO  [Log] Navigating to URL 
+2017-03-17 10:56:53,902 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:56:54,386 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 10:56:59,783 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:00,002 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 10:57:00,657 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:00,891 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 10:57:01,671 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:01,858 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 10:57:02,123 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:02,357 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 10:57:03,200 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:05,181 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 10:57:09,424 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 10:57:09,580 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 10:57:09,876 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:10,110 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-17 10:57:12,279 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:12,481 INFO  [Log] Clicking on Button or link : new_instLink 
+2017-03-17 10:57:12,809 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:17,520 INFO  [Log] Entering Input Data : sClientId 
+2017-03-17 10:57:17,973 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:18,191 INFO  [Log] Entering Input Data : tDpId 
+2017-03-17 10:57:18,940 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:19,174 INFO  [Log] Entering Input Data : tClientID 
+2017-03-17 10:57:19,673 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:19,860 INFO  [Log] Entering Input Data : isin 
+2017-03-17 10:57:20,983 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:21,217 INFO  [Log] Entering Input Data : quantity 
+2017-03-17 10:57:21,576 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:21,779 INFO  [Log] **** Entering Execution Date **** 
+2017-03-17 10:57:22,793 INFO  [Log] Entered select_DropDown : disDropDown 
+2017-03-17 10:57:22,933 INFO  [Log] selecting dropdown by Visible Text: disDropDown 
+2017-03-17 10:57:23,199 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:23,433 INFO  [Log] Entered select_DropDown : reasonDropDown 
+2017-03-17 10:57:23,573 INFO  [Log] selecting dropdown by Value: reasonDropDown 
+2017-03-17 10:57:23,776 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:23,947 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-17 10:57:28,253 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:29,657 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-17 10:57:34,165 INFO  [Log] ---Getting DFP Instruction ID--- 
+2017-03-17 10:57:34,321 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:57:34,321 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:57:34,321 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 10:57:34,321 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:57:34,321 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:57:34,321 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:57:34,337 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:57:34,337 INFO  [Log] Instruction ID Stored : 20000001336616 
+2017-03-17 10:57:34,353 INFO  [Log] Clicking on Button or link : newInstButton 
+2017-03-17 10:57:35,429 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:40,109 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-17 10:57:40,359 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:40,593 INFO  [Log] Entering Input Data : sClientId 
+2017-03-17 10:57:41,092 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:41,279 INFO  [Log] Entering Input Data : tDpId 
+2017-03-17 10:57:42,012 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:42,262 INFO  [Log] Entering Input Data : tClientID 
+2017-03-17 10:57:42,730 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:42,932 INFO  [Log] Entering Input Data : isin 
+2017-03-17 10:57:44,024 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:44,258 INFO  [Log] Entering Input Data : quantity 
+2017-03-17 10:57:44,617 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:44,789 INFO  [Log] **** Entering Execution Date **** 
+2017-03-17 10:57:45,787 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-17 10:57:46,832 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:57:48,252 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-17 10:57:52,760 INFO  [Log] ---Getting RFP Instruction ID--- 
+2017-03-17 10:57:52,932 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:57:52,932 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:57:52,932 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 10:57:52,932 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:57:52,932 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:57:52,932 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:57:52,948 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:57:52,948 INFO  [Log] Instruction ID Stored : 20000001336617 
+2017-03-17 10:57:52,963 INFO  [Log] === Logging Out === 
+2017-03-17 10:57:54,040 INFO  [Log] Are you sure you want to Logout? For Security Reasons this Browser will be Closed. - Alert accepted - 
+2017-03-17 10:57:54,071 INFO  [Log] Opening Browser 
+2017-03-17 10:58:02,839 INFO  [Log] Navigating to URL 
+2017-03-17 10:58:09,063 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:09,469 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 10:58:15,100 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:15,288 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 10:58:15,927 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:16,161 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 10:58:16,926 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:17,113 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 10:58:17,378 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:17,612 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 10:58:18,454 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:20,202 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 10:58:24,445 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 10:58:24,601 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 10:58:24,866 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:25,100 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-17 10:58:25,412 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:25,630 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-17 10:58:25,849 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:25,849 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:25,849 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 10:58:25,849 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:25,849 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:25,849 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:58:25,849 INFO  [Log] Instructrion ID for Input : 20000001336616 
+2017-03-17 10:58:26,208 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:58:26,208 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:26,457 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 10:58:29,749 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:34,398 INFO  [Log] Clicking on Button or link : verifyReleaseButton 
+2017-03-17 10:58:34,881 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:35,739 INFO  [Log] Do you really want to release the instruction? - Alert accepted - 
+2017-03-17 10:58:39,358 INFO  [Log] The instruction has been Released successfully. - Alert accepted - 
+2017-03-17 10:58:43,867 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-17 10:58:44,553 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:49,217 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-17 10:58:49,311 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:49,311 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:49,311 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 10:58:49,311 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:49,311 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:49,311 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:58:49,311 INFO  [Log] Instructrion ID for Input : 20000001336616 
+2017-03-17 10:58:49,670 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:58:49,670 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:49,935 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 10:58:50,887 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:58:55,551 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:58:55,551 INFO  [Log] ---Getting Instruction Status---- 
+2017-03-17 10:58:55,769 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:55,769 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:55,769 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 10:58:55,769 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:55,769 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:58:55,769 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:58:55,769 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:58:55,785 INFO  [Log] Instructrion ID for Input : CounterParty Instruction Awaited 
+2017-03-17 10:59:12,992 INFO  [Log] Not able to close browser Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:17:10'
+System info: host: 'nsdltinc86', ip: '172.19.4.204', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 0bd55c3e-883a-49fb-9063-ffa4267aff4f
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=11, pageLoadStrategy=normal, ie.usePerProcessProxy=false, cssSelectorsEnabled=true, ignoreProtectedModeSettings=false, requireWindowFocus=false, initialBrowserUrl=http://localhost:3909/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}] 
+2017-03-17 10:59:13,070 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-17 10:59:13,070 INFO  [Log] X 
+2017-03-17 10:59:13,070 INFO  [Log] X 
+2017-03-17 10:59:13,070 INFO  [Log] X 
+2017-03-17 10:59:13,070 INFO  [Log] X 
+2017-03-17 10:59:35,940 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:59:35,940 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:59:35,940 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 10:59:35,940 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:59:35,940 INFO  [Log] **************************************************************************************** 
+2017-03-17 10:59:35,940 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 10:59:35,940 INFO  [Log] Opening Browser 
+2017-03-17 10:59:45,254 INFO  [Log] Navigating to URL 
+2017-03-17 10:59:51,510 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:59:51,962 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 10:59:57,095 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:59:57,313 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 10:59:57,953 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:59:58,187 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 10:59:58,967 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:59:59,154 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 10:59:59,419 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 10:59:59,653 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 11:00:00,527 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:02,508 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 11:00:06,845 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 11:00:07,001 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 11:00:07,281 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:07,515 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-17 11:00:07,843 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:08,061 INFO  [Log] Clicking on Button or link : new_instLink 
+2017-03-17 11:00:09,029 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:13,740 INFO  [Log] Entering Input Data : sClientId 
+2017-03-17 11:00:14,223 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:14,442 INFO  [Log] Entering Input Data : tDpId 
+2017-03-17 11:00:15,222 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:15,456 INFO  [Log] Entering Input Data : tClientID 
+2017-03-17 11:00:15,939 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:16,127 INFO  [Log] Entering Input Data : isin 
+2017-03-17 11:00:17,234 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:17,484 INFO  [Log] Entering Input Data : quantity 
+2017-03-17 11:00:17,874 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:18,061 INFO  [Log] **** Entering Execution Date **** 
+2017-03-17 11:00:19,059 INFO  [Log] Entered select_DropDown : disDropDown 
+2017-03-17 11:00:19,200 INFO  [Log] selecting dropdown by Visible Text: disDropDown 
+2017-03-17 11:00:19,434 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:19,668 INFO  [Log] Entered select_DropDown : reasonDropDown 
+2017-03-17 11:00:19,808 INFO  [Log] selecting dropdown by Value: reasonDropDown 
+2017-03-17 11:00:20,026 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:20,198 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-17 11:00:21,196 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:22,600 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-17 11:00:27,109 INFO  [Log] ---Getting DFP Instruction ID--- 
+2017-03-17 11:00:27,265 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:00:27,265 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:00:27,265 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:00:27,265 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:00:27,265 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:00:27,265 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:00:27,280 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:00:27,280 INFO  [Log] Instruction ID Stored : 20000001336618 
+2017-03-17 11:00:27,296 INFO  [Log] Clicking on Button or link : newInstButton 
+2017-03-17 11:00:28,248 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:32,912 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-17 11:00:33,193 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:33,411 INFO  [Log] Entering Input Data : sClientId 
+2017-03-17 11:00:33,926 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:34,113 INFO  [Log] Entering Input Data : tDpId 
+2017-03-17 11:00:34,878 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:35,112 INFO  [Log] Entering Input Data : tClientID 
+2017-03-17 11:00:35,611 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:35,798 INFO  [Log] Entering Input Data : isin 
+2017-03-17 11:00:36,859 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:37,108 INFO  [Log] Entering Input Data : quantity 
+2017-03-17 11:00:37,467 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:37,654 INFO  [Log] **** Entering Execution Date **** 
+2017-03-17 11:00:38,637 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-17 11:00:39,620 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:00:41,024 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-17 11:00:45,532 INFO  [Log] ---Getting RFP Instruction ID--- 
+2017-03-17 11:00:45,688 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:00:45,688 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:00:45,688 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:00:45,688 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:00:45,688 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:00:45,688 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:00:45,704 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:00:45,704 INFO  [Log] Instruction ID Stored : 20000001336619 
+2017-03-17 11:00:45,720 INFO  [Log] === Logging Out === 
+2017-03-17 11:00:46,780 INFO  [Log] Are you sure you want to Logout? For Security Reasons this Browser will be Closed. - Alert accepted - 
+2017-03-17 11:00:46,827 INFO  [Log] Opening Browser 
+2017-03-17 11:00:55,502 INFO  [Log] Navigating to URL 
+2017-03-17 11:01:01,757 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:02,147 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 11:01:07,670 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:07,857 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 11:01:08,496 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:08,730 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 11:01:09,510 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:09,698 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 11:01:09,978 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:10,212 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 11:01:11,055 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:13,036 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 11:01:17,373 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 11:01:17,529 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 11:01:17,794 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:18,028 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-17 11:01:18,761 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:18,948 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-17 11:01:19,042 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:19,042 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:19,042 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:01:19,042 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:19,042 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:19,042 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:01:19,042 INFO  [Log] Instructrion ID for Input : 20000001336618 
+2017-03-17 11:01:19,416 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:01:19,416 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:19,682 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:01:20,617 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:25,282 INFO  [Log] Clicking on Button or link : verifyReleaseButton 
+2017-03-17 11:01:25,781 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:26,670 INFO  [Log] Do you really want to release the instruction? - Alert accepted - 
+2017-03-17 11:01:28,480 INFO  [Log] The instruction has been Released successfully. - Alert accepted - 
+2017-03-17 11:01:32,988 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-17 11:01:33,721 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:38,386 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-17 11:01:38,479 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:38,479 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:38,479 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:01:38,479 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:38,479 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:38,479 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:01:38,479 INFO  [Log] Instructrion ID for Input : 20000001336618 
+2017-03-17 11:01:38,838 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:01:38,838 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:39,119 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:01:40,039 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:44,704 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:01:44,704 INFO  [Log] ---Getting Instruction Status---- 
+2017-03-17 11:01:44,922 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:44,922 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:44,922 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:01:44,922 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:44,922 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:44,922 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:01:44,922 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:01:44,938 INFO  [Log] Instructrion ID for Input : CounterParty Instruction Awaited 
+2017-03-17 11:01:44,938 INFO  [Log] Instruction Status is : CounterParty Instruction Awaited 
+2017-03-17 11:01:44,953 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-17 11:01:45,655 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:50,367 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-17 11:01:50,632 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:50,819 INFO  [Log] Entering RFP Instruction ID : inputInstructionId 
+2017-03-17 11:01:50,819 INFO  [Log] Instructrion ID for Input : 20000001336619 
+2017-03-17 11:01:50,913 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:50,913 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:50,913 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:01:50,913 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:50,913 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:01:50,913 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:01:50,913 INFO  [Log] Instructrion ID for Input : 20000001336619 
+2017-03-17 11:01:51,287 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:01:51,287 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:51,536 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:01:52,504 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:57,168 INFO  [Log] Clicking on Button or link : verifyReleaseButton 
+2017-03-17 11:01:57,667 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:01:58,510 INFO  [Log] Do you really want to release the instruction? - Alert accepted - 
+2017-03-17 11:02:03,018 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-17 11:02:03,736 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:02:08,400 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-17 11:02:08,650 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:02:08,899 INFO  [Log] Entering RFP Instruction ID : inputInstructionId 
+2017-03-17 11:02:08,899 INFO  [Log] Instructrion ID for Input : 20000001336619 
+2017-03-17 11:02:09,008 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:02:09,008 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:02:09,008 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:02:09,008 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:02:09,008 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:02:09,008 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:02:09,008 INFO  [Log] Instructrion ID for Input : 20000001336619 
+2017-03-17 11:02:09,383 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:02:09,383 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:02:09,570 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:02:10,490 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:02:15,202 INFO  [Log] ---Getting Instruction Status---- 
+2017-03-17 11:02:15,404 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:02:15,404 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:02:15,404 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:02:15,404 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:02:15,404 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:02:15,404 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:02:15,404 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:02:15,420 INFO  [Log] Instructrion ID for Input : CounterParty Instruction Awaited 
+2017-03-17 11:04:18,317 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:04:18,317 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:04:18,317 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:04:18,317 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:04:18,317 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:04:18,317 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:04:18,317 INFO  [Log] Opening Browser 
+2017-03-17 11:04:27,803 INFO  [Log] Navigating to URL 
+2017-03-17 11:04:34,043 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:34,526 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 11:04:39,378 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:39,612 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 11:04:40,314 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:40,563 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 11:04:41,328 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:41,531 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 11:04:41,796 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:42,045 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 11:04:42,903 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:44,885 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 11:04:49,112 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 11:04:49,268 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 11:04:49,549 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:49,783 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-17 11:04:50,111 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:50,329 INFO  [Log] Clicking on Button or link : new_instLink 
+2017-03-17 11:04:51,327 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:56,039 INFO  [Log] Entering Input Data : sClientId 
+2017-03-17 11:04:56,507 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:56,725 INFO  [Log] Entering Input Data : tDpId 
+2017-03-17 11:04:57,505 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:57,723 INFO  [Log] Entering Input Data : tClientID 
+2017-03-17 11:04:58,207 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:58,394 INFO  [Log] Entering Input Data : isin 
+2017-03-17 11:04:59,502 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:04:59,751 INFO  [Log] Entering Input Data : quantity 
+2017-03-17 11:05:00,126 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:00,328 INFO  [Log] **** Entering Execution Date **** 
+2017-03-17 11:05:01,342 INFO  [Log] Entered select_DropDown : disDropDown 
+2017-03-17 11:05:01,483 INFO  [Log] selecting dropdown by Visible Text: disDropDown 
+2017-03-17 11:05:01,686 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:01,920 INFO  [Log] Entered select_DropDown : reasonDropDown 
+2017-03-17 11:05:02,060 INFO  [Log] selecting dropdown by Value: reasonDropDown 
+2017-03-17 11:05:02,263 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:02,434 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-17 11:05:03,433 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:04,837 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-17 11:05:09,345 INFO  [Log] ---Getting DFP Instruction ID--- 
+2017-03-17 11:05:09,501 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:05:09,501 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:05:09,501 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:05:09,501 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:05:09,501 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:05:09,501 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:05:09,517 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:05:09,517 INFO  [Log] Instruction ID Stored : 20000001336620 
+2017-03-17 11:05:09,532 INFO  [Log] Clicking on Button or link : newInstButton 
+2017-03-17 11:05:10,562 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:15,226 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-17 11:05:15,476 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:15,710 INFO  [Log] Entering Input Data : sClientId 
+2017-03-17 11:05:16,209 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:16,412 INFO  [Log] Entering Input Data : tDpId 
+2017-03-17 11:05:17,176 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:17,426 INFO  [Log] Entering Input Data : tClientID 
+2017-03-17 11:05:17,894 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:18,097 INFO  [Log] Entering Input Data : isin 
+2017-03-17 11:05:19,173 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:19,407 INFO  [Log] Entering Input Data : quantity 
+2017-03-17 11:05:19,782 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:19,984 INFO  [Log] **** Entering Execution Date **** 
+2017-03-17 11:05:20,983 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-17 11:05:21,950 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:23,370 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-17 11:05:27,878 INFO  [Log] ---Getting RFP Instruction ID--- 
+2017-03-17 11:05:28,050 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:05:28,050 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:05:28,050 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:05:28,050 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:05:28,050 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:05:28,050 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:05:28,065 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:05:28,065 INFO  [Log] Instruction ID Stored : 20000001336621 
+2017-03-17 11:05:28,081 INFO  [Log] === Logging Out === 
+2017-03-17 11:05:29,142 INFO  [Log] Are you sure you want to Logout? For Security Reasons this Browser will be Closed. - Alert accepted - 
+2017-03-17 11:05:29,188 INFO  [Log] Opening Browser 
+2017-03-17 11:05:37,878 INFO  [Log] Navigating to URL 
+2017-03-17 11:05:44,118 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:44,493 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 11:05:49,422 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:49,610 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 11:05:50,265 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:50,499 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 11:05:51,279 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:51,466 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 11:05:51,747 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:51,981 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 11:05:52,823 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:54,804 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 11:05:59,157 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 11:05:59,313 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 11:05:59,578 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:05:59,812 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-17 11:06:00,140 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:00,342 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-17 11:06:00,561 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:00,561 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:00,561 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:06:00,561 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:00,561 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:00,561 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:00,561 INFO  [Log] Instructrion ID for Input : 20000001336620 
+2017-03-17 11:06:00,935 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:00,935 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:01,185 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:06:02,105 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:06,832 INFO  [Log] Clicking on Button or link : verifyReleaseButton 
+2017-03-17 11:06:07,315 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:08,220 INFO  [Log] Do you really want to release the instruction? - Alert accepted - 
+2017-03-17 11:06:10,030 INFO  [Log] The instruction has been Released successfully. - Alert accepted - 
+2017-03-17 11:06:14,538 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-17 11:06:15,271 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:19,920 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-17 11:06:20,014 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:20,014 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:20,014 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:06:20,014 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:20,014 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:20,014 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:20,014 INFO  [Log] Instructrion ID for Input : 20000001336620 
+2017-03-17 11:06:20,388 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:20,388 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:20,638 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:06:21,527 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:26,191 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:26,191 INFO  [Log] ---Getting Instruction Status---- 
+2017-03-17 11:06:26,410 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:26,410 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:26,410 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:06:26,410 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:26,410 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:26,410 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:26,410 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:26,425 INFO  [Log] Instructrion ID for Input : CounterParty Instruction Awaited 
+2017-03-17 11:06:26,425 INFO  [Log] Instruction Status is : CounterParty Instruction Awaited 
+2017-03-17 11:06:26,441 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-17 11:06:27,159 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:31,870 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-17 11:06:32,119 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:32,322 INFO  [Log] Entering RFP Instruction ID : inputInstructionId 
+2017-03-17 11:06:32,322 INFO  [Log] Instructrion ID for Input : 20000001336621 
+2017-03-17 11:06:32,416 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:32,416 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:32,416 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:06:32,416 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:32,416 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:32,416 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:32,416 INFO  [Log] Instructrion ID for Input : 20000001336621 
+2017-03-17 11:06:32,774 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:32,774 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:33,024 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:06:33,960 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:38,624 INFO  [Log] Clicking on Button or link : verifyReleaseButton 
+2017-03-17 11:06:39,124 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:39,982 INFO  [Log] Do you really want to release the instruction? - Alert accepted - 
+2017-03-17 11:06:44,490 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-17 11:06:45,192 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:49,856 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-17 11:06:50,168 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:50,418 INFO  [Log] Entering RFP Instruction ID : inputInstructionId 
+2017-03-17 11:06:50,418 INFO  [Log] Instructrion ID for Input : 20000001336621 
+2017-03-17 11:06:50,512 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:50,512 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:50,512 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:06:50,512 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:50,512 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:50,512 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:50,512 INFO  [Log] Instructrion ID for Input : 20000001336621 
+2017-03-17 11:06:50,761 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:50,761 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:50,964 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:06:51,869 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:06:56,564 INFO  [Log] ---Getting Instruction Status---- 
+2017-03-17 11:06:56,767 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:56,767 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:56,767 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:06:56,767 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:56,767 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:06:56,767 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:56,767 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:06:56,783 INFO  [Log] Instructrion ID for Input : CounterParty Instruction Awaited 
+2017-03-17 11:39:12,211 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:39:12,211 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:39:12,211 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:39:12,211 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:39:12,211 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:39:12,211 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:39:12,211 INFO  [Log] Opening Browser 
+2017-03-17 11:39:21,650 INFO  [Log] Navigating to URL 
+2017-03-17 11:39:28,420 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:28,873 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 11:39:34,317 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:34,551 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 11:39:35,175 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:35,409 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 11:39:36,189 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:36,392 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 11:39:36,673 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:36,922 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 11:39:37,765 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:39,761 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 11:39:44,129 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 11:39:44,285 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 11:39:44,753 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:44,987 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-17 11:39:45,315 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:45,518 INFO  [Log] Clicking on Button or link : new_instLink 
+2017-03-17 11:39:46,485 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:51,196 INFO  [Log] Entering Input Data : sClientId 
+2017-03-17 11:39:51,664 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:51,882 INFO  [Log] Entering Input Data : tDpId 
+2017-03-17 11:39:52,647 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:52,896 INFO  [Log] Entering Input Data : tClientID 
+2017-03-17 11:39:53,349 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:53,552 INFO  [Log] Entering Input Data : isin 
+2017-03-17 11:39:54,675 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:54,909 INFO  [Log] Entering Input Data : quantity 
+2017-03-17 11:39:55,299 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:55,486 INFO  [Log] **** Entering Execution Date **** 
+2017-03-17 11:39:56,469 INFO  [Log] Entered select_DropDown : disDropDown 
+2017-03-17 11:39:56,609 INFO  [Log] selecting dropdown by Visible Text: disDropDown 
+2017-03-17 11:39:56,828 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:57,062 INFO  [Log] Entered select_DropDown : reasonDropDown 
+2017-03-17 11:39:57,202 INFO  [Log] selecting dropdown by Value: reasonDropDown 
+2017-03-17 11:39:57,405 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:57,592 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-17 11:39:58,575 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:39:59,963 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-17 11:40:04,472 INFO  [Log] ---Getting DFP Instruction ID--- 
+2017-03-17 11:40:04,628 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:04,628 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:04,628 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:40:04,628 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:04,628 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:04,628 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:40:04,643 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:40:04,643 INFO  [Log] Instruction ID Stored : 20000001336622 
+2017-03-17 11:40:04,659 INFO  [Log] Clicking on Button or link : newInstButton 
+2017-03-17 11:40:05,595 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:10,259 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-17 11:40:10,540 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:10,758 INFO  [Log] Entering Input Data : sClientId 
+2017-03-17 11:40:11,289 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:11,492 INFO  [Log] Entering Input Data : tDpId 
+2017-03-17 11:40:12,225 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:12,490 INFO  [Log] Entering Input Data : tClientID 
+2017-03-17 11:40:12,974 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:13,176 INFO  [Log] Entering Input Data : isin 
+2017-03-17 11:40:14,222 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:14,456 INFO  [Log] Entering Input Data : quantity 
+2017-03-17 11:40:14,830 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:15,002 INFO  [Log] **** Entering Execution Date **** 
+2017-03-17 11:40:16,000 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-17 11:40:16,936 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:18,340 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-17 11:40:22,848 INFO  [Log] ---Getting RFP Instruction ID--- 
+2017-03-17 11:40:23,004 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:23,004 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:23,004 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:40:23,004 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:23,004 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:23,004 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:40:23,020 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:40:23,020 INFO  [Log] Instruction ID Stored : 20000001336623 
+2017-03-17 11:40:23,035 INFO  [Log] === Logging Out === 
+2017-03-17 11:40:24,096 INFO  [Log] Are you sure you want to Logout? For Security Reasons this Browser will be Closed. - Alert accepted - 
+2017-03-17 11:40:24,127 INFO  [Log] Opening Browser 
+2017-03-17 11:40:32,849 INFO  [Log] Navigating to URL 
+2017-03-17 11:40:39,104 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:39,510 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 11:40:44,954 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:45,157 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 11:40:45,781 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:46,015 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 11:40:46,780 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:46,951 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 11:40:47,232 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:47,466 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 11:40:48,293 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:49,697 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 11:40:53,940 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 11:40:54,096 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 11:40:54,361 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:54,579 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-17 11:40:54,907 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:55,110 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-17 11:40:55,328 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:55,328 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:55,328 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:40:55,328 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:55,328 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:40:55,328 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:40:55,328 INFO  [Log] Instructrion ID for Input : 20000001336622 
+2017-03-17 11:40:55,671 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:40:55,671 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:40:55,921 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:40:56,857 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:01,521 INFO  [Log] Clicking on Button or link : verifyReleaseButton 
+2017-03-17 11:41:02,021 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:02,894 INFO  [Log] Do you really want to release the instruction? - Alert accepted - 
+2017-03-17 11:41:05,889 INFO  [Log] The instruction has been Released successfully. - Alert accepted - 
+2017-03-17 11:41:10,398 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-17 11:41:11,115 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:15,780 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-17 11:41:15,873 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:15,873 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:15,873 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:41:15,873 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:15,873 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:15,873 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:41:15,873 INFO  [Log] Instructrion ID for Input : 20000001336622 
+2017-03-17 11:41:16,248 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:41:16,248 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:16,482 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:41:17,387 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:22,051 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:41:22,051 INFO  [Log] ---Getting Instruction Status---- 
+2017-03-17 11:41:22,269 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:22,269 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:22,269 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:41:22,269 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:22,269 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:22,269 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:41:22,269 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:41:22,285 INFO  [Log] Instructrion ID for Input : CounterParty Instruction Awaited 
+2017-03-17 11:41:22,285 INFO  [Log] Instruction Status is : CounterParty Instruction Awaited 
+2017-03-17 11:41:22,300 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-17 11:41:23,018 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:27,729 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-17 11:41:27,994 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:28,182 INFO  [Log] Entering RFP Instruction ID : inputInstructionId 
+2017-03-17 11:41:28,182 INFO  [Log] Instructrion ID for Input : 20000001336623 
+2017-03-17 11:41:28,275 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:28,275 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:28,275 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:41:28,275 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:28,275 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:28,275 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:41:28,275 INFO  [Log] Instructrion ID for Input : 20000001336623 
+2017-03-17 11:41:28,650 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:41:28,650 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:28,884 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:41:29,820 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:34,484 INFO  [Log] Clicking on Button or link : verifyReleaseButton 
+2017-03-17 11:41:34,983 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:35,826 INFO  [Log] Do you really want to release the instruction? - Alert accepted - 
+2017-03-17 11:41:40,334 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-17 11:41:41,036 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:45,700 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-17 11:41:45,966 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:46,200 INFO  [Log] Entering RFP Instruction ID : inputInstructionId 
+2017-03-17 11:41:46,200 INFO  [Log] Instructrion ID for Input : 20000001336623 
+2017-03-17 11:41:46,293 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:46,293 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:46,293 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:41:46,293 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:46,293 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:46,293 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:41:46,293 INFO  [Log] Instructrion ID for Input : 20000001336623 
+2017-03-17 11:41:46,652 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:41:46,652 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:46,855 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:41:47,728 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:41:52,440 INFO  [Log] ---Getting Instruction Status---- 
+2017-03-17 11:41:52,642 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:52,642 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:52,642 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:41:52,642 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:52,642 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:41:52,642 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:41:52,642 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:41:52,658 INFO  [Log] Instructrion ID for Input : CounterParty Instruction Awaited 
+2017-03-17 11:43:59,048 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:43:59,048 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:43:59,048 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:43:59,048 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:43:59,048 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:43:59,048 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:43:59,048 INFO  [Log] Opening Browser 
+2017-03-17 11:44:08,440 INFO  [Log] Navigating to URL 
+2017-03-17 11:44:14,680 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:15,148 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 11:44:20,764 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:20,998 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 11:44:21,622 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:21,856 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 11:44:22,621 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:22,808 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 11:44:23,073 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:23,338 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 11:44:24,337 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:26,334 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 11:44:30,608 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 11:44:30,764 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 11:44:31,247 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:31,497 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-17 11:44:31,887 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:32,090 INFO  [Log] Clicking on Button or link : new_instLink 
+2017-03-17 11:44:33,041 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:37,753 INFO  [Log] Entering Input Data : sClientId 
+2017-03-17 11:44:38,221 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:38,439 INFO  [Log] Entering Input Data : tDpId 
+2017-03-17 11:44:39,203 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:39,453 INFO  [Log] Entering Input Data : tClientID 
+2017-03-17 11:44:39,890 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:40,108 INFO  [Log] Entering Input Data : isin 
+2017-03-17 11:44:41,231 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:41,481 INFO  [Log] Entering Input Data : quantity 
+2017-03-17 11:44:41,855 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:42,043 INFO  [Log] **** Entering Execution Date **** 
+2017-03-17 11:44:43,041 INFO  [Log] Entered select_DropDown : disDropDown 
+2017-03-17 11:44:43,181 INFO  [Log] selecting dropdown by Visible Text: disDropDown 
+2017-03-17 11:44:43,400 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:43,634 INFO  [Log] Entered select_DropDown : reasonDropDown 
+2017-03-17 11:44:43,774 INFO  [Log] selecting dropdown by Value: reasonDropDown 
+2017-03-17 11:44:43,993 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:44,180 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-17 11:44:45,147 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:46,535 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-17 11:44:51,044 INFO  [Log] ---Getting DFP Instruction ID--- 
+2017-03-17 11:44:51,215 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:44:51,215 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:44:51,215 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:44:51,215 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:44:51,215 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:44:51,215 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:44:51,231 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:44:51,231 INFO  [Log] Instruction ID Stored : 20000001336624 
+2017-03-17 11:44:51,247 INFO  [Log] Clicking on Button or link : newInstButton 
+2017-03-17 11:44:52,151 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:56,816 INFO  [Log] Clicking on Button or link : rdb_rfp 
+2017-03-17 11:44:57,097 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:57,315 INFO  [Log] Entering Input Data : sClientId 
+2017-03-17 11:44:57,830 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:58,017 INFO  [Log] Entering Input Data : tDpId 
+2017-03-17 11:44:58,781 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:59,031 INFO  [Log] Entering Input Data : tClientID 
+2017-03-17 11:44:59,515 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:44:59,702 INFO  [Log] Entering Input Data : isin 
+2017-03-17 11:45:00,747 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:00,996 INFO  [Log] Entering Input Data : quantity 
+2017-03-17 11:45:01,371 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:01,542 INFO  [Log] **** Entering Execution Date **** 
+2017-03-17 11:45:02,556 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-17 11:45:03,524 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:04,943 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-17 11:45:09,452 INFO  [Log] ---Getting RFP Instruction ID--- 
+2017-03-17 11:45:09,623 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:45:09,623 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:45:09,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:45:09,623 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:45:09,623 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:45:09,623 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:45:09,639 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:45:09,639 INFO  [Log] Instruction ID Stored : 20000001336625 
+2017-03-17 11:45:09,654 INFO  [Log] === Logging Out === 
+2017-03-17 11:45:10,700 INFO  [Log] Are you sure you want to Logout? For Security Reasons this Browser will be Closed. - Alert accepted - 
+2017-03-17 11:45:10,731 INFO  [Log] Opening Browser 
+2017-03-17 11:45:19,421 INFO  [Log] Navigating to URL 
+2017-03-17 11:45:25,677 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:26,082 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 11:45:31,090 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:31,277 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 11:45:31,885 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:32,135 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 11:45:32,899 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:33,086 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 11:45:33,352 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:33,586 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 11:45:34,397 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:36,066 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 11:45:40,294 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 11:45:40,450 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 11:45:40,715 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:40,949 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-17 11:45:41,682 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:41,869 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-17 11:45:41,963 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:45:41,963 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:45:41,963 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:45:41,963 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:45:41,963 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:45:41,963 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:45:41,963 INFO  [Log] Instructrion ID for Input : 20000001336624 
+2017-03-17 11:45:42,493 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:45:42,493 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:42,727 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:45:43,648 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:48,312 INFO  [Log] Clicking on Button or link : verifyReleaseButton 
+2017-03-17 11:45:48,811 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:45:49,685 INFO  [Log] Do you really want to release the instruction? - Alert accepted - 
+2017-03-17 11:45:51,494 INFO  [Log] The instruction has been Released successfully. - Alert accepted - 
+2017-03-17 11:45:56,003 INFO  [Log] Clicking on Button or link : backButton 
+2017-03-17 11:45:56,705 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:46:01,385 INFO  [Log] Entering DFP Instruction ID : inputInstructionId 
+2017-03-17 11:46:01,478 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:46:01,478 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:46:01,478 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:46:01,478 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:46:01,478 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:46:01,478 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:46:01,478 INFO  [Log] Instructrion ID for Input : 20000001336624 
+2017-03-17 11:46:01,837 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:46:01,837 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:46:02,087 INFO  [Log] Clicking on Button or link : searchButton 
+2017-03-17 11:46:02,945 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:46:07,609 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:46:07,609 INFO  [Log] ---Getting Instruction Status---- 
+2017-03-17 11:46:07,859 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:46:07,859 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:46:07,859 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:46:07,859 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:46:07,859 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:46:07,859 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:46:07,859 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:46:07,874 INFO  [Log] Instructrion ID for Input : CounterParty Instruction Awaited 
+2017-03-17 11:46:07,874 INFO  [Log] Instruction Status is : CounterParty Instruction Awaited 
+2017-03-17 11:46:07,890 INFO  [Log] Instructrion ID for Input : Settled 
+2017-03-17 11:50:46,535 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:50:46,535 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:50:46,535 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:50:46,535 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:50:46,535 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:50:46,535 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:50:46,535 INFO  [Log] Opening Browser 
+2017-03-17 11:50:56,286 INFO  [Log] Navigating to URL 
+2017-03-17 11:51:03,447 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:03,961 INFO  [Log] Entering Input Data : txtbx_UserID 
+2017-03-17 11:51:09,234 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:09,484 INFO  [Log] Entering Input Data : txtbx_Password 
+2017-03-17 11:51:10,123 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:10,389 INFO  [Log] Entering Input Data : txtbx_BPID 
+2017-03-17 11:51:11,153 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:11,356 INFO  [Log] Clicking on Button or link : rdb_Passbased 
+2017-03-17 11:51:11,652 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:11,917 INFO  [Log] Clicking on Button or link : btn_LogIn 
+2017-03-17 11:51:12,573 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:14,257 INFO  [Log] Your Password will be Expired in 14 Day(s). Do you want to change it now ?  - Alert dismissed - 
+2017-03-17 11:51:18,500 INFO  [Log] ----Switching driver to new window---- 
+2017-03-17 11:51:18,672 INFO  [Log] Clicking on Button or link : stlm_link 
+2017-03-17 11:51:18,953 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:19,234 INFO  [Log] Clicking on Button or link : act_link 
+2017-03-17 11:51:19,561 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:19,795 INFO  [Log] Clicking on Button or link : new_instLink 
+2017-03-17 11:51:20,731 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:25,458 INFO  [Log] Entering Input Data : sClientId 
+2017-03-17 11:51:25,942 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:26,176 INFO  [Log] Entering Input Data : tDpId 
+2017-03-17 11:51:26,924 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:27,221 INFO  [Log] Entering Input Data : tClientID 
+2017-03-17 11:51:27,704 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:27,923 INFO  [Log] Entering Input Data : isin 
+2017-03-17 11:51:29,046 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:29,311 INFO  [Log] Entering Input Data : quantity 
+2017-03-17 11:51:29,686 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:29,904 INFO  [Log] **** Entering Execution Date **** 
+2017-03-17 11:51:30,934 INFO  [Log] Entered select_DropDown : disDropDown 
+2017-03-17 11:51:31,105 INFO  [Log] selecting dropdown by Visible Text: disDropDown 
+2017-03-17 11:51:31,339 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:31,589 INFO  [Log] Entered select_DropDown : reasonDropDown 
+2017-03-17 11:51:31,729 INFO  [Log] selecting dropdown by Value: reasonDropDown 
+2017-03-17 11:51:31,948 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:32,150 INFO  [Log] Clicking on Button or link : savebtn 
+2017-03-17 11:51:33,258 INFO  [Log] Entering into takeScreenShot 
+2017-03-17 11:51:34,662 INFO  [Log] Record Saved. - Alert accepted - 
+2017-03-17 11:51:48,577 INFO  [Log] ---Getting DFP Instruction ID--- 
+2017-03-17 11:52:35,720 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:52:35,720 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:52:35,720 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 ACTR02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-17 11:52:35,720 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:52:35,720 INFO  [Log] **************************************************************************************** 
+2017-03-17 11:52:36,172 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:52:57,856 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-17 11:53:29,524 INFO  [Log] Instruction ID Stored : 20000001336626 
+2017-03-17 11:53:46,341 INFO  [Log] Instructrion ID for Input : Settled 
+2017-03-17 11:53:49,804 INFO  [Log] Not able to close browser Error communicating with the remote browser. It may have died.
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:17:10'
+System info: host: 'nsdltinc86', ip: '172.19.4.204', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: RemoteWebDriver 
+2017-03-17 11:53:49,820 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-17 11:53:49,820 INFO  [Log] X 
+2017-03-17 11:53:49,820 INFO  [Log] X 
+2017-03-17 11:53:49,820 INFO  [Log] X 
+2017-03-17 11:53:49,820 INFO  [Log] X 
+2017-03-17 11:53:50,334 INFO  [Log] Not able to close browser Error communicating with the remote browser. It may have died.
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:17:10'
+System info: host: 'nsdltinc86', ip: '172.19.4.204', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: RemoteWebDriver 
+2017-03-17 11:53:50,350 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-17 11:53:50,350 INFO  [Log] X 
+2017-03-17 11:53:50,366 INFO  [Log] X 
+2017-03-17 11:53:50,366 INFO  [Log] X 
+2017-03-17 11:53:50,366 INFO  [Log] X 
